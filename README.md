@@ -1,45 +1,69 @@
-<h1 align="center">Hi 👋, I'm Sudarkodi S</h1>
-<h3 align="center">Building a Data Science Journey: Fresh Perspectives and Code Chronicles on GitHub</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [Named Entity Recognition](https://github.com/Sudar1612/NAMED-ENTITY-RECOGNITION)
+# 🔥 Hey! Sudarkodi S | AI Engineer @Botminds.ai 💻🤖
 
-- 🌱 I’m currently learning **Power BI**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Pythonloic+grinding+PDF+parsers+%26+NER+agents;Late-night+coder+from+Pune+🇮🇳;Eat+Code+Deploy+Repeat+🚀;95%+ML+models+%7C+spaCy+NLP+pro" alt="Typing SVG" />
 
-- 👯 I’m looking to collaborate on [Named Entity Recognition](https://github.com/Sudar1612/NAMED-ENTITY-RECOGNITION)
+[![Snake animation](https://github.com/Sudar1612/Sudar1612/blob/output/github-contribution-grid-snake-dark.svg)](https://github.com/Sudar1612/Sudar1612)
 
-- 👨‍💻 All of my projects are available at [https://sudar1612.github.io/sudarkodi.github.io](https://sudar1612.github.io/sudarkodi.github.io)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sudar1612&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&hide=stars,prs,issues&border_radius=20" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sudar1612&show_icons=true&theme=radical&hide_border=true&bg_color=FFFFFF&title_color=000000&icon_color=00FF00&text_color=000000&hide=stars,prs,issues&border_radius=20" />
+  <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Sudar1612&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&hide=stars,prs,issues&border_radius=20" />
+</picture>
 
-- 📝 I regularly write articles on [https://medium.com/@sudarkodi1612](https://medium.com/@sudarkodi1612)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sudar1612&theme=radical&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-- 💬 Ask me about **Python , NLP**
+</div>
 
-- 📫 How to reach me **sudarkodi1612@gmail.com**
+## 🚀 Featured Projects
 
-- 📄 Know about my experiences [sudar1612.github.io/sudarkodi.github.io](sudar1612.github.io/sudarkodi.github.io)
+<table align="center">
+<tr>
+<td width="50%">
+  <a href="https://github.com/Sudar1612/NAMED-ENTITY-RECOGNITION">
+    <img src="https://img.shields.io/badge/NER-spaCy%20🤖-00FF00?style=for-the-badge&logo=spacy&logoColor=white" />
+  </a>
+  <svg width="400" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <filter id="glow">
+        <feGaussianBlur stdDeviation="2.5" flood-color="#00FF00" result="coloredBlur"/>
+        <feMerge> 
+          <feMergeNode in="coloredBlur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+    <rect width="400" height="200" rx="20" fill="#0D1117" stroke="#00FF00" stroke-width="3" filter="url(#glow)"/>
+    <text x="200" y="100" font-family="monospace" font-size="24" fill="#00FF00" text-anchor="middle" filter="url(#glow)">NER Beast Mode 🔥</text>
+    <text x="200" y="130" font-family="monospace" font-size="14" fill="#FFFFFF" text-anchor="middle">95% F1 | Live Demo 👇</text>
+    <animateTransform attributeName="transform" type="rotate" from="0 200 100" to="360 200 100" dur="20s" repeatCount="indefinite"/>
+  </svg>
+</a>
+</td>
+<td width="50%">
+  <a href="https://github.com/Sudar1612/House-Prediction">
+    <img src="https://img.shields.io/badge/House%20Predictor-ML%20🏠-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/95%25+Acc-Neon%20Glow-brightgreen" />
+</td>
+</tr>
+</table>
 
-- ⚡ Fun fact **I am always learning new things..**
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-🔥-3776AB?style=flat&logo=python&logoColor=yellow)
+![spaCy](https://img.shields.io/badge/spaCy-NLP%20🤖-FF4500?style=flat&logo=spacy&logoColor=white)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-PDF%20Parser-00FF00?style=flat&logo=pdf&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Cloud%20🚀-0078D4?style=flat&logo=azure&logoColor=white)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 🎯 Currently Grinding
+- 🔄 NER agents for Botminds.ai docs
+- ⚡ PDF parsing at scale (PyMuPDF + async)
+- 📈 ML optimization (Adam/RMSProp variants)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sudarkodi15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudarkodi15" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sudarkodi-s-10ab75207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sudarkodi-s-10ab75207/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21270649/sudarkodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21270649/sudarkodi" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/sudar1612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sudar1612" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/__.sudar.___?igshid=ngexmmi2ytkyzg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/__.sudar.___?igshid=ngexmmi2ytkyzg==" height="30" width="40" /></a>
-<a href="https://medium.com/@sudarkodi1612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sudarkodi1612" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/sudar1612" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sudar1612" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/sudar_202ad143?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sudar_202ad143?hr_r=1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user4769q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user4769q" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sudarkodiad20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sudarkodiad20" height="30" width="40" /></a>
-</p>
+<div align="center">
+<img src="https://img.shields.io/badge/Portfolio-Neon%20Live%20🚀-00FF00?style=for-the-badge&logo=html5&logoColor=black" />
+<a href="https://your-portfolio-link.netlify.app">Live Demo 👈</a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudar1612&show_icons=true&locale=en&layout=compact" alt="sudar1612" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudar1612&" alt="sudar1612" /></p>
+⭐ **Star this repo to show love!** ⭐
