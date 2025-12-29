@@ -1,6 +1,5 @@
 <div align="center">
 
-<div align="center">
 
 <!--- LEFT: Neon Text --->
 <div style="float: left; width: 50%; text-align: right; padding: 20px;">
@@ -18,7 +17,7 @@
 
 <!--- RIGHT: Animated Image --->
 <div style="float: right; width: 50%; text-align: left; padding: 20px;">
-  <img src="https://raw.githubusercontent.com/Sudar1612/Sudar1612/main/github_sudar-1.gif" 
+  <img src="https://github.com/Sudar1612/Sudar1612/blob/main/github_sudar-1.gif" 
        width="300" 
        alt="Sudar anime shy peace" 
        style="border-radius: 50%; 
