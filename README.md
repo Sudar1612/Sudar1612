@@ -1,6 +1,48 @@
 <div align="center">
 
-# 🔥 Hey! Sudarkodi S | AI Engineer @Botminds.ai 💻🤖
+<div align="center">
+
+<!--- LEFT: Neon Text --->
+<div style="float: left; width: 50%; text-align: right; padding: 20px;">
+  <h1 style="background: linear-gradient(45deg, #00FF00, #FF00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 3em; font-weight: bold; animation: glow 2s ease-in-out infinite alternate;">
+    Hey! 👋<br>
+    This is Sudar
+  </h1>
+  <style>
+    @keyframes glow {
+      from { text-shadow: 0 0 20px #00FF00; }
+      to { text-shadow: 0 0 40px #FF00FF, 0 0 60px #00FF00; }
+    }
+  </style>
+</div>
+
+<!--- RIGHT: Animated Image --->
+<div style="float: right; width: 50%; text-align: left; padding: 20px;">
+  <img src="https://raw.githubusercontent.com/Sudar1612/Sudar1612/main/github_sudar-1.gif" 
+       width="300" 
+       alt="Sudar anime shy peace" 
+       style="border-radius: 50%; 
+              animation: shySmile 3s infinite, peaceFloat 2s infinite; 
+              box-shadow: 0 0 30px #00FF00;"/>
+  <style>
+    @keyframes shySmile {
+      0%, 100% { transform: scale(1) rotate(0deg); }
+      50% { transform: scale(1.05) rotate(2deg); }
+    }
+    @keyframes peaceFloat {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-10px); }
+    }
+  </style>
+</div>
+
+<div style="clear: both;"></div>
+
+<!-- Typing SVG Below -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Pythonloic+grinding+PDF+parsers+%26+NER+agents;AI+Engineer+%40Botminds.ai+%F0%9F%A4%96;Pune+code+nights+🇮🇳;Eat+Code+Deploy+Repeat+🚀" alt="Typing SVG" />
+
+</div>
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Pythonloic+grinding+PDF+parsers+%26+NER+agents;Late-night+coder+from+Pune+🇮🇳;Eat+Code+Deploy+Repeat+🚀;95%+ML+models+%7C+spaCy+NLP+pro" alt="Typing SVG" />
 
