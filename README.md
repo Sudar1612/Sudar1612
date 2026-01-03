@@ -7,12 +7,7 @@
     Hey! 👋<br>
     This is Sudar
   </h1>
-  <style>
-    @keyframes glow {
-      from { text-shadow: 0 0 20px #00FF00; }
-      to { text-shadow: 0 0 40px #FF00FF, 0 0 60px #00FF00; }
-    }
-  </style>
+ 
 </div>
 
 
