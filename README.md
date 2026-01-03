@@ -27,7 +27,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sudar1612&show_icons=true&theme=radical&hide_border=true&bg_color=FFFFFF&title_color=000000&icon_color=00FF00&text_color=000000&hide=stars,prs,issues&border_radius=20" />
   <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Sudar1612&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&hide=stars,prs,issues&border_radius=20" />
 </picture>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudar1612)](https://github.com/anuraghazra/github-readme-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Sudar1612?cardType=github&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sudar1612&theme=radical&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
