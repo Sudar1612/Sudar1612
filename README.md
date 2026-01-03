@@ -21,14 +21,7 @@ alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Sudar1612&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&hide=stars,prs,issues"
-    height="180"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Sudar1612&theme=radical&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"
-    height="180"
-  />
+   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&fontFamily=&preferLogin=false">    <img  alt="Sudar1612's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Sudar1612?cardType=github&theme=dark&fontFamily=&preferLogin=false" />  </a>
 </p>
 
 ## 🚀 Featured Projects
