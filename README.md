@@ -16,13 +16,9 @@ alt="Typing SVG" />
 
 </div>
 
----
-
 <p align="center">
   <img src="https://github.com/Sudar1612/Sudar1612/blob/output/github-snake-dark.svg" alt="snake animation"/>
 </p>
-
----
 
 <p align="center">
   <img
@@ -34,8 +30,6 @@ alt="Typing SVG" />
     height="180"
   />
 </p>
-
----
 
 ## 🚀 Featured Projects
 
@@ -63,20 +57,14 @@ alt="Typing SVG" />
 </tr>
 </table>
 
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/spaCy-NLP-FF4500?style=flat&logo=spacy&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyMuPDF-PDF%20Parsing-00FF00?style=flat&logo=pdf&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
-
 </p>
-
----
 
 ## 🎯 Currently Grinding
 
@@ -84,16 +72,10 @@ alt="Typing SVG" />
 - ⚡ High-scale PDF parsing (PyMuPDF + async)  
 - 📈 ML optimization (Adam / RMSProp variants)
 
----
-
 <div align="center">
-
 <img src="https://img.shields.io/badge/Portfolio-Neon%20Live-00FF00?style=for-the-badge&logo=html5&logoColor=black"/>
 <br/>
 <a href="https://your-portfolio-link.netlify.app">Live Demo 👈</a>
-
 </div>
-
----
 
 ⭐ **Star this repo to show some love** ⭐
