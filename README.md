@@ -15,25 +15,7 @@
   </style>
 </div>
 
-<!--- RIGHT: Animated Image --->
-<div style="float: right; width: 50%; text-align: left; padding: 20px;">
-  <img src="https://github.com/Sudar1612/Sudar1612/blob/main/github_sudar-1.gif" 
-       width="300" 
-       alt="Sudar anime shy peace" 
-       style="border-radius: 50%; 
-              animation: shySmile 3s infinite, peaceFloat 2s infinite; 
-              box-shadow: 0 0 30px #00FF00;"/>
-  <style>
-    @keyframes shySmile {
-      0%, 100% { transform: scale(1) rotate(0deg); }
-      50% { transform: scale(1.05) rotate(2deg); }
-    }
-    @keyframes peaceFloat {
-      0%, 100% { transform: translateY(0px); }
-      50% { transform: translateY(-10px); }
-    }
-  </style>
-</div>
+
 
 <div style="clear: both;"></div>
 
